@@ -4,6 +4,8 @@
 
 This project analyzes public sentiment posts using SQL Server and Power BI. Posts are classified as Positive, Negative, or Neutral based on sentiment keywords, and the results are visualized in an interactive dashboard.
 
+# Dashboard Preview
+![Dashboard](Dashboard/Dashboard.png)
 ## Tools Used
 
 - SQL Server

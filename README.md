@@ -1,4 +1,4 @@
-# Social Media Sentiment Analysis
+# Sentiment Analysis Dashboard 
 
 # Project Overview
 
